@@ -31,6 +31,9 @@ public class CartAddController {
 			
 			mycart.addOrder(num, orderqty);
 			return gotoPage;
+			//kim 추가함
+			//kim 추가함
+			//kim 추가함
 		}
 		
 	}
