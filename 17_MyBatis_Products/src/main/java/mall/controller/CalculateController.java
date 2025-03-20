@@ -19,6 +19,8 @@ import products.model.ProductsDao;
 @Controller
 public class CalculateController {
 	
+	//수정 test
+	
 	private final String command = "calculate.mall"; // mallList.jsp 결제하기 클릭
 	private final String gotoPage = "redirect:/list.prd"; 
 	
