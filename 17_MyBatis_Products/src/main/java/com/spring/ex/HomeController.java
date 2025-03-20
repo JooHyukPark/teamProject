@@ -19,7 +19,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 //한글 test
 //kim 수정
 //kim 추가
-
+//kim 추가
+//kim 추가
 @Controller
 public class HomeController {
 	
