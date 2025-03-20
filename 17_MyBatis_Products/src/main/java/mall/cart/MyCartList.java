@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class MyCartList { // 장바구니 역할
+	//한줄 더 추가
 	private Map<Integer, Integer> orderlists = null;
 	
 	public MyCartList() {
