@@ -11,11 +11,15 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-//한글 test
-
 /**    
  * Handles requests for the application home page.
  */
+
+
+//한글 test
+//kim 수정
+//kim 추가
+
 @Controller
 public class HomeController {
 	
